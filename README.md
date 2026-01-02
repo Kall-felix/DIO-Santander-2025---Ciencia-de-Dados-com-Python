@@ -44,4 +44,4 @@ Este repositório contém os projetos e desafios desenvolvidos durante o bootcam
 * 💬 Abrir issues
 * 🤝 Contribuir com melhorias
 
-⭐ Desenvolvido durante o Bootcamp Santander - Ciência de Dados 2024
+⭐ Desenvolvido durante o Bootcamp Santander - Ciência de Dados 2025
